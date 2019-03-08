@@ -22,7 +22,7 @@ in case anyone unauthorized tries to modify this license file:
 https://the-one.cz/data/exclusive/license-pegatron.txt
 
 Backup is also avaible on GitHub in private repository, GitHub can confirm how long it lies there.
-https://github.com/xtremertx/PegaLicense
+https://github.com/xtremertx/PegaLicense/blob/master/LICENSE.txt
 
 ---------------------------------------------
 
