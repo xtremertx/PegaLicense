@@ -4,8 +4,10 @@ Project Version: 1.2
 
 Note: 
 This is an exclusive license created by Petr Rojko ("contributor") specifically for project ExCrypto.JRE ("contribution").
-License is valid only for the following entity: 
 
+License specified in this document is exclusively valid only for the following entity: 
+
+Company:
 Pegatron Czech s.r.o.
 
 Address:
@@ -23,6 +25,8 @@ https://the-one.cz/data/exclusive/license-pegatron.txt
 
 Backup is also avaible on GitHub in private repository, GitHub can confirm how long it lies there.
 https://github.com/xtremertx/PegaLicense/blob/master/LICENSE.txt
+
+Access to the both files is prohibited to anyone except the contributors in a sense that only the contributors are able to exclusively modify these files.
 
 ---------------------------------------------
 
