@@ -7,7 +7,7 @@ This is an exclusive license created by Petr Rojko ("contributor") specifically 
 
 License specified in this document is exclusively valid only for the following entity: 
 
-Company:
+Company Name:
 Pegatron Czech s.r.o.
 
 Address:
