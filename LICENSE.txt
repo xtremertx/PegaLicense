@@ -26,7 +26,7 @@ https://the-one.cz/data/exclusive/license-pegatron.txt
 Backup is also avaible on GitHub in private repository, GitHub can confirm how long it lies there.
 https://github.com/xtremertx/PegaLicense/blob/master/LICENSE.txt
 
-Access to the both files is prohibited to anyone except the contributors in a sense that only the contributors are able to exclusively modify these files.
+Access to the both files is prohibited to anyone except the contributors in a sense that only the contributors are able to exclusively modify these files. Unauthorized access to this files is prohibited and violators will be prosecuted to the full extent of the law.
 
 ---------------------------------------------
 
